@@ -20,6 +20,7 @@ namespace lab_git
         public override void AddItems(Items name)
         {
             base.AddItems(name);
+            Console.WriteLine($"Вы положили {name} в сундук");
         }
         public override void GetItem(Items name)
         {

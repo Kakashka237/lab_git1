@@ -25,7 +25,7 @@ namespace lab_git
                 return;
             }
             base.AddItems(name);
-            Console.WriteLine($"Вы достали {name} из сумки");
+            Console.WriteLine($"Вы положили {name} в сумку");
         }
         public override void GetItem(Items name)
         {
