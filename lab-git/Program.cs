@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Person p = new Person("Иван", "лес");
+        Person p = new Person("nafnas", "лес");
         p.LeaveHome();
         p.GotHere();
         p.LightLamp();
