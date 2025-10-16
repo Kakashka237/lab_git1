@@ -1,0 +1,15 @@
+C:\Users\ivani\source\repos\lab-git\lab-git\bin\Debug\net8.0\lab-git.exe
+C:\Users\ivani\source\repos\lab-git\lab-git\bin\Debug\net8.0\lab-git.deps.json
+C:\Users\ivani\source\repos\lab-git\lab-git\bin\Debug\net8.0\lab-git.runtimeconfig.json
+C:\Users\ivani\source\repos\lab-git\lab-git\bin\Debug\net8.0\lab-git.dll
+C:\Users\ivani\source\repos\lab-git\lab-git\bin\Debug\net8.0\lab-git.pdb
+C:\Users\ivani\source\repos\lab-git\lab-git\obj\Debug\net8.0\lab-git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivani\source\repos\lab-git\lab-git\obj\Debug\net8.0\lab-git.AssemblyInfoInputs.cache
+C:\Users\ivani\source\repos\lab-git\lab-git\obj\Debug\net8.0\lab-git.AssemblyInfo.cs
+C:\Users\ivani\source\repos\lab-git\lab-git\obj\Debug\net8.0\lab-git.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\lab-git\lab-git\obj\Debug\net8.0\lab-git.sourcelink.json
+C:\Users\ivani\source\repos\lab-git\lab-git\obj\Debug\net8.0\lab-git.dll
+C:\Users\ivani\source\repos\lab-git\lab-git\obj\Debug\net8.0\refint\lab-git.dll
+C:\Users\ivani\source\repos\lab-git\lab-git\obj\Debug\net8.0\lab-git.pdb
+C:\Users\ivani\source\repos\lab-git\lab-git\obj\Debug\net8.0\lab-git.genruntimeconfig.cache
+C:\Users\ivani\source\repos\lab-git\lab-git\obj\Debug\net8.0\ref\lab-git.dll
