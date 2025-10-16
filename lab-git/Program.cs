@@ -9,5 +9,6 @@ class Program
         p.GotHere();
         p.LightLamp();
         p.Condition();
+        Console.WriteLine("game over");
     }
 }
