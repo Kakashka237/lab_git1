@@ -35,6 +35,11 @@ namespace lab_git
                     items.Remove(name);
                     break;
                 }
+                else
+                {
+                    Console.WriteLine($"Предмета {item} не существует");
+                    return;
+                }
             }
         }
     }
