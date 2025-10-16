@@ -25,6 +25,7 @@ namespace lab_git
                 throw new InvalidNameException("Такой предмет уже существует");
             }
             else items.Add(name);
+            
         }
         public virtual void GetItem(Items item)
         {
